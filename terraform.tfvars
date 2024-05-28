@@ -1,12 +1,5 @@
-bucket = "oiuytresdfyuiolkjgf"
+## bucket = "oiuytresdfyuiolkjgf"
 role_name = "testing"
-
-
-cidr="10.0.0.0/16"
-vpc_name= "myvpc"
-
-
-
 ## vpc values
 
 cidr = "10.0.0.0/16"
