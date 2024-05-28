@@ -1,6 +1,11 @@
 ## s3 values
 
 bucket    = "awsnareshitbucketnames"
+## ec2
+instance_type = "t2.micro"
+
+
+
 
 ## iam values
 role_name = "testing"
