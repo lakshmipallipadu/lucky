@@ -3,10 +3,6 @@ variable "bucket" {
   
 }
 
-variable "instance" {
-    type = string
-}
-
 ## vpc variables
 variable "cidr" {
   type = string
